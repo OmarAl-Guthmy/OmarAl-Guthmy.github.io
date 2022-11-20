@@ -12,7 +12,7 @@ body
      */
     background-color: #1d2e1f;
     background-image: repeating-radial-gradient(rgba(0, 0, 255, 0.2), rgba(0, 0, 255, 0.2),#1c2619  102% );
-    height: 100vh;
+    height: 200vh;
     display: block; /* */
     /*margin: 0px;*/ /* rhs margin on the page */
     font-size: 15pt;
